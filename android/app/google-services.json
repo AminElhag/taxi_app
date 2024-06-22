@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511600685737",
+    "project_id": "flutter-dev-dd4c4",
+    "storage_bucket": "flutter-dev-dd4c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511600685737:android:16e26911baff2e6e272fb8",
+        "android_client_info": {
+          "package_name": "com.example.taxi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpyW1KWQypqLYJXpTB_fm-BpzWP9jFDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
